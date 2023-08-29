@@ -21,12 +21,34 @@
 # Registers:
 
 # File marks:
-'0  1  12  ~/zero_day/README.md
+'0  1  14  ~/0x00-vagrant/0-hello_ubuntu
+'1  2  0  ~/0x00-vagrant/README.md
+'2  1  12  ~/zero_day/README.md
 
 # Jumplist (newest first):
+-'  1  14  ~/0x00-vagrant/0-hello_ubuntu
+-'  2  0  ~/0x00-vagrant/README.md
+-'  1  0  ~/0x00-vagrant/README.md
+-'  1  12  ~/zero_day/README.md
+-'  1  12  ~/zero_day/README.md
+-'  2  0  ~/0x00-vagrant/README.md
+-'  1  0  ~/0x00-vagrant/README.md
+-'  1  12  ~/zero_day/README.md
 -'  1  12  ~/zero_day/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/0x00-vagrant/0-hello_ubuntu
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> ~/0x00-vagrant/README.md
+	"	2	0
+	^	2	0
+	.	1	0
+	+	1	0
 
 > ~/zero_day/README.md
 	"	1	12
